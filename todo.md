@@ -1,14 +1,14 @@
- - [] Company model, view & controller
+ - [ ] Company model, view & controller
  
- - [] Promotion model, view & controller
+ - [ ] Promotion model, view & controller
  
- - [] Authentication
+ - [ ] Authentication
  
- - [] CustomerAccount model / primary key custid, purchase count & loyalty scale
+ - [ ] CustomerAccount model / primary key custid, purchase count & loyalty scale
  
- - [] Purchase model w/foreign key of custid and promotion name (readonly)
+ - [ ] Purchase model w/foreign key of custid and promotion name (readonly)
  
- - [] Virtual punch card (controller & view containing customer info)
+ - [ ] Virtual punch card (controller & view containing customer info)
  
  
  
