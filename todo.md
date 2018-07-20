@@ -1,9 +1,9 @@
- - [ ] Authentication
+ - [ ] Authentication/user model, view,
+ controller
  
  - [ ] Company model, view & controller
  
- - [ ] Promotion model, view & controller
- 
+ - [ ] Promotional product model, view & controller
  
  - [ ] CustomerAccount model / primary key custid, purchase count & loyalty scale
  
