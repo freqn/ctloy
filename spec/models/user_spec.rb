@@ -24,7 +24,7 @@ RSpec.describe User, type: :model do
 
     it "should have a unique email" do
       user1 = User.create(name: "test", email: "test@example.com")
-      user2 = User.create(name: "test", email: "test@example.com")
+      user2 = user1.dup
       expect(user1).to be_valid
       expect(user2).to_not be_valid
     end
